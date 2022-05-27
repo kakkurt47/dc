@@ -28,8 +28,8 @@ K_G = Client(
 
 # Start Buttonu İcin Def Oluşturalım :)
 def button():
-	BUTTON=[[InlineKeyboardButton(text="??????? Sahibim ",url="t.me/tgkadir")]]
-	BUTTON+=[[InlineKeyboardButton(text="?? Open Source ??",url="https://t.me/yangazlargrup")]]
+	BUTTON=[[InlineKeyboardButton(text="👨‍💻 Sahibim ",url="t.me/tgkadir")]]
+	BUTTON+=[[InlineKeyboardButton(text="🏚️ GRUP 🏚️",url="https://t.me/yangazlargrup")]]
 	return InlineKeyboardMarkup(BUTTON)
 
 # Kullanıcı Start Komutunu Kullanınca Selam'layalım :)
